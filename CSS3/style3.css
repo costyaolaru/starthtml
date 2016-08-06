@@ -10,6 +10,11 @@
 }
 
 .light-blue {
-    font-weight: lighter;
+    font-weight: bold;
     color: blue;
+}
+
+.light-blue {
+    font-size: 18px;
+    color: black;
 }
