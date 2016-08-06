@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Marck+Script&subset=latin,cyrillic);
+
+/* Оформлення параграфов */
+body {
+    background: #333333 url(img/18.jpg) repeat-x top left;
+}
+
+#page {
+    width: 960px;
+    margin: auto;
+}
+
+.strong-red {
+    margin-top: 400px;
+    color: #4553ff;
+    font-weight: normal;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 30px;
+    line-height: 30px;
+    font-family: "Marck Script", cursive;
+}
+
+.light-blue {
+    font-weight: bold;
+    color: blue;
+}
+
+.light-blue {
+    font-size: 18px;
+    color: black;
+}
+
+#styles li {
+    color: #45a7fd;
+    font-family: "Marck Script", cursive;  
+    list-style: circle url(img/logo.png) inside;
+    padding: 5px;
+    border: 1px solid #45a7fd;
+}
+
+#style li :hover {
+    background: #000;
+}
