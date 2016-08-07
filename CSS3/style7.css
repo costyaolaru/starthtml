@@ -39,7 +39,7 @@ body {
     border: 1px solid #45a7fd;
 }
 
-#style li:hover {
+#styles li:hover {
     background: #000;
     text-decoration: underline;
 }
